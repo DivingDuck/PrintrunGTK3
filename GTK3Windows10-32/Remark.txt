@@ -1,0 +1,18 @@
+This directory contains an extract of DLL's from 
+http://www.tarnyko.net/repo/gtk3_build_system/gtk+-bundle_3.6.4-20130513_win32.zip
+
+ Pronterface for Windows 10-x32 only
+
+File list:
+libcairo-2.dll
+libexpat-1.dll
+libfontconfig-1.dll
+libfreetype-6.dll
+libpixman-1-0.dll
+libpng15-15.dll
+Remark.txt
+zlib1.dll
+
+Link to original source:
+http://www.tarnyko.net/dl/gtk.htm
+

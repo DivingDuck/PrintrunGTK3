@@ -38,7 +38,7 @@ There are tree ways how you can use these binaries:
 
   In case you need to update the submodule to the latest version:
 
-    `git submodule update --init --recursive`
+    `git submodule update --remote`
 
 * Download and copy the files to an location and place of your choice manually
   and make the path to the binaries available by adding this path to 
